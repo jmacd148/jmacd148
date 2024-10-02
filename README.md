@@ -2,4 +2,4 @@
 - 👀 I’m interested in using data analysis and data science to support evidence based decision making
 - 🌱 I’m currently learning Python, R, and SQL
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to play hockey! I usually play goalie but on occasion I will switch it up.
+- ⚡ Fun fact: I love to play hockey! I usually play goalie
